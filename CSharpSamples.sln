@@ -11,15 +11,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Delegates", "003_Delega
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Events", "004_Events\004_Events.csproj", "{14F7D023-4BE4-48BD-93E2-7B64DBEDB9D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Exceptions", "005_Exceptions\005_Exceptions.csproj", "{604FAA09-EF49-46B9-BBCD-2B1EBCE60102}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Exceptions", "005_Exceptions\005_Exceptions.csproj", "{604FAA09-EF49-46B9-BBCD-2B1EBCE60102}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Iteration", "006_Iteration\006_Iteration.csproj", "{A53219D3-9C11-4BC1-86CF-8446783C2998}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Iteration", "006_Iteration\006_Iteration.csproj", "{A53219D3-9C11-4BC1-86CF-8446783C2998}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Extensions", "007_Extensions\007_Extensions.csproj", "{A729D9B4-69F3-47F6-BE29-22F764EB4D7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007_Extensions", "007_Extensions\007_Extensions.csproj", "{A729D9B4-69F3-47F6-BE29-22F764EB4D7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_AnonymousTypes", "008_AnonymousTypes\008_AnonymousTypes.csproj", "{3344CA84-DD88-465B-B287-47C7A80A5F39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008_AnonymousTypes", "008_AnonymousTypes\008_AnonymousTypes.csproj", "{3344CA84-DD88-465B-B287-47C7A80A5F39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_InfoAttributes", "009_InfoAttributes\009_InfoAttributes.csproj", "{619D447F-18CA-416C-9429-B3670337F76C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009_InfoAttributes", "009_InfoAttributes\009_InfoAttributes.csproj", "{619D447F-18CA-416C-9429-B3670337F76C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Equality", "010_Equality\010_Equality.csproj", "{96604955-AD0E-44C7-ACDE-76EBD6B222E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_DeferredExecution", "011_DeferredExecution\011_DeferredExecution.csproj", "{0B610D46-7C71-4959-8616-3B424E90F2E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{619D447F-18CA-416C-9429-B3670337F76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{619D447F-18CA-416C-9429-B3670337F76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{619D447F-18CA-416C-9429-B3670337F76C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96604955-AD0E-44C7-ACDE-76EBD6B222E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96604955-AD0E-44C7-ACDE-76EBD6B222E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96604955-AD0E-44C7-ACDE-76EBD6B222E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96604955-AD0E-44C7-ACDE-76EBD6B222E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B610D46-7C71-4959-8616-3B424E90F2E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B610D46-7C71-4959-8616-3B424E90F2E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B610D46-7C71-4959-8616-3B424E90F2E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B610D46-7C71-4959-8616-3B424E90F2E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
