@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008_AnonymousTypes", "008_A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009_InfoAttributes", "009_InfoAttributes\009_InfoAttributes.csproj", "{619D447F-18CA-416C-9429-B3670337F76C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Equality", "010_Equality\010_Equality.csproj", "{96604955-AD0E-44C7-ACDE-76EBD6B222E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010_Equality", "010_Equality\010_Equality.csproj", "{96604955-AD0E-44C7-ACDE-76EBD6B222E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_DeferredExecution", "011_DeferredExecution\011_DeferredExecution.csproj", "{0B610D46-7C71-4959-8616-3B424E90F2E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011_DeferredExecution", "011_DeferredExecution\011_DeferredExecution.csproj", "{0B610D46-7C71-4959-8616-3B424E90F2E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_DisposeAndFinalize", "012_DisposeAndFinalize\012_DisposeAndFinalize.csproj", "{B2BD278F-43D7-4ABE-8A02-837448ED0A6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{0B610D46-7C71-4959-8616-3B424E90F2E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B610D46-7C71-4959-8616-3B424E90F2E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B610D46-7C71-4959-8616-3B424E90F2E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2BD278F-43D7-4ABE-8A02-837448ED0A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BD278F-43D7-4ABE-8A02-837448ED0A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2BD278F-43D7-4ABE-8A02-837448ED0A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2BD278F-43D7-4ABE-8A02-837448ED0A6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
